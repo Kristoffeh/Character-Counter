@@ -1,0 +1,18 @@
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\bin\Debug\Character counter.exe.config
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\bin\Debug\Character counter.exe
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\bin\Debug\Character counter.pdb
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character counter.csprojResolveAssemblyReference.cache
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character_counter.Form1.resources
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character_counter.Properties.Resources.resources
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character counter.csproj.GenerateResource.Cache
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character counter.exe
+c:\users\kriss\documents\visual studio 2015\Projects\Character Counter\Character counter\Character counter\obj\Debug\Character counter.pdb
+D:\Sync\Character Counter\Character counter\Character counter\bin\Debug\Character counter.exe.config
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character counter.exe
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character counter.pdb
+D:\Sync\Character Counter\Character counter\Character counter\bin\Debug\Character counter.exe
+D:\Sync\Character Counter\Character counter\Character counter\bin\Debug\Character counter.pdb
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character counter.csprojResolveAssemblyReference.cache
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character_counter.Form1.resources
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character_counter.Properties.Resources.resources
+D:\Sync\Character Counter\Character counter\Character counter\obj\Debug\Character counter.csproj.GenerateResource.Cache
