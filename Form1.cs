@@ -13,7 +13,7 @@ namespace Character_counter
 {
     public partial class Form1 : Form
     {
-        public string Version = "Version 1.2D BETA";
+        public string ProgVersion = "Version 1.30 - Built 30/10/2018"; 
 
         public Form1()
         {
@@ -63,9 +63,6 @@ namespace Character_counter
                 popup_txt.Visible = false;
                 timer1.Stop();
             }
-
-
-
         }
 
         #endregion
@@ -77,7 +74,7 @@ namespace Character_counter
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lbl_version.Text = Version;
+            lblversion.Text = ProgVersion;
         }
     }
 }
